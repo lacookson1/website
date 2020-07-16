@@ -1,0 +1,56 @@
+* {
+  font-family: 'Rubik', sans-serif;
+  text-shadow: 2px black;
+}
+ 
+ .box {
+    color:white;
+    font-size: 50px;
+    text-align: center;
+    text-shadow:4px 4px 0 rgba(0,0,0,0.1);
+    padding:10px;
+    border: 10px whitesmoke;
+    text-decoration: none;
+    display: flex;
+   justify-content: center;
+    align-content: center;
+ }
+ 
+ div {
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+  }
+
+  body {
+    background-image: url("waves-730260985.jpg");
+  }
+
+  .div1 {
+    background-color: gray;
+    color: #F9E79F;
+  }
+
+  .div2 {
+    background-color: #F9E79F;
+    color: gray;
+  }
+
+  .div3 {
+    background-color: gray;
+    color: #F9E79F;
+  }
+
+  .div4 {
+    background-color: #F9E79F;
+    color: gray;
+
+  }
+/*   display: inline; */
+
+/* display: inline-block
+  Can define width and height
+  */
